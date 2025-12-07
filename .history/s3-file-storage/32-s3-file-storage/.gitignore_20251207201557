@@ -39,4 +39,3 @@ next-env.d.ts
 .env
 public/images
 meals.db
-.history/
